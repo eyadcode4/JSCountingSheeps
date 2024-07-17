@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "vitest": "^2.0.3"
+  },
+  "name": "jscountingsheeps",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "eyad",
+  "license": "ISC",
+  "description": ""
+}
